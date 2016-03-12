@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Financial FAQs Redesign Redesign"
+date:   2016-03-12 17:10:33 -0500
+categories: jekyll update
+---
+Here's a description of the AskCFPB project! 
+
+I need to figure out how to add images! What fun!
