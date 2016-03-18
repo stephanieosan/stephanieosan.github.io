@@ -6,6 +6,17 @@ categories: jekyll update
 permalink: /mineral-hall/
 ---
 
-Here's a description of the AskCFPB project! 
+Here's a description of the Gems and Minerals Hall! 
 
-I need to figure out how to add images! What fun!
+
+![Gem Hall Photograph](/img/gem-hall/gem-hall-01.jpg)
+
+![Mineral Matrix Screen](/img/gem-hall/min-matrix-01.jpg)
+
+![Mineral Matrix Screen](/img/gem-hall/min-matrix-02.jpg)
+
+![Mineral Matrix Screen](/img/gem-hall/min-matrix-03.jpg)
+
+![Mineral Matrix Screen](/img/gem-hall/min-matrix-04.jpg)
+
+![Mineral Cart Touch Interface](/img/gem-hall/mineral-cart-01.jpg)

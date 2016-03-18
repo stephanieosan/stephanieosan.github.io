@@ -6,6 +6,10 @@ categories: jekyll update
 permalink: /energy-hall/
 ---
 
-Here's a description of the AskCFPB project! 
+Here's a description of the Energy Hall project! 
 
-I need to figure out how to add images! What fun!
+![Energy Hall Rendering](/img/energy-hall/energy-rendering-01.jpg)
+
+![Energy Hall Faraday Dynamo Rendering](/img/energy-hall/energy-rendering-02.jpg)
+
+![Farady Dynamo exhibit interface](/img/energy-hall/faraday-dynamo.jpg)
