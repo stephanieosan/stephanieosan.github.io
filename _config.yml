@@ -1,21 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Stephanie Osan
+email: stephanieosan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  Stephanie Osan is a designer creating educational experiences from the mountains of Colorado.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Stephanie Osan
+twitter_username: stephosan
+github_username: stephanieosan
+address:
+  - line: PO Box 2161
+  - line: Telluride, CO
+  # Feel free to add more lines here 
+telephone: 
+copyright: 2016
+
+# API settings
+google_api_key:
 
 # Build settings
 markdown: kramdown
