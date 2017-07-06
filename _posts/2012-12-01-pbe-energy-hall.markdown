@@ -33,8 +33,8 @@ Energy Questions is a touchscreen application that allows museum-goers to debate
 I designed all of the exhibit signage and wayfinding. This process included presenting to and collaborating with multi-million dollar donors to create signage to recognize their contributions to the museum. I also oversaw the production of the signage and managed relationships with vendors.
 
 [Need a wayfinding signage image.]
-
----
 <br><br>
+---
+<br>
 These exhibits reside in the Tom Hunt Energy Hall at the <a href="http://perotmuseum.org">Perot Museum of Nature and Science</a> in Dallas, TX. <i>Project completed while at <a href="http://pbexhibits.com">PBE</a>.
 

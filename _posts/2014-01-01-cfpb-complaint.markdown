@@ -11,9 +11,9 @@ One of the core services CFPB offers to the public is the ability to submit comp
 ![Complaint Landing Page Design](/img/complaint/complaint-landing.png)
 
 
-
----
 <br><br>
+---
+<br>
 This project was completed in collaboration with other CFPB designers and developers, Stephen Kennedy and Ben Guhin. 
 
 The current version of the CFPB Complaint tool [can be found here](http://www.consumerfinance.gov/complaint). The design has been further refined by colleagues since my team's redesign.

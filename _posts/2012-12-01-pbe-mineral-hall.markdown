@@ -38,7 +38,7 @@ The Mobile Mineral Cart is a custom touch table exhibit that houses four activit
 ### Mineral case label system
 
 I also designed an interactive label system for the cases containing mineral specimens. This allows museum visitors to look up more information about the gems and minerals displayed in the exhibit hall.
-
----
 <br><br>
+---
+<br>
 These exhibits reside in the Lyda Hill Gems and Minerals Hall at the <a href="http://perotmuseum.org">Perot Museum of Nature and Science</a> in Dallas, TX. <i>Project completed while at <a href="http://pbexhibits.com">PBE</a>.

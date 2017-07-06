@@ -35,8 +35,8 @@ Know the Process was designed to offer a linear way to access the Owning a Home 
 
 As a part of designing the Know the process guide, I designed a set of illustrations that work within CFPB's brand language to communicate and visualize the steps in getting a mortgage.
 
-
----
 <br><br>
+---
+<br>
 This project was completed as a part of a team of in-house CFPB designers and developers that I led.
 
