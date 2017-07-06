@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Financial FAQs Redesign"
+title:  "AskCFPB Financial FAQs Redesign"
 date:   2016-03-12 17:10:33 -0500
 categories: jekyll update
 permalink: /ask-cfpb/
