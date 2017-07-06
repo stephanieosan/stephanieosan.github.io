@@ -37,5 +37,6 @@ As a part of designing the Know the process guide, I designed a set of illustrat
 
 
 ---
+<br><br>
 This project was completed as a part of a team of in-house CFPB designers and developers that I led.
 

@@ -236,6 +236,7 @@ th {
   h3 {
     orphans: 3;
     widows: 3;
+    padding-top: 45px;
   }
   h2,
   h3 {
