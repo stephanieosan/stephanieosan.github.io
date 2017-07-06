@@ -10,4 +10,10 @@ permalink: /complaint/
 
 Here's a description of the Complaint project! 
 
-[Link to the Complaint landing page](http://www.consumerfinance.gov/complaint)
+
+[Image of the form itself]
+
+Maybe something about the paper form?
+
+
+The current version of the CFPB Complaint tool [can be found here](http://www.consumerfinance.gov/complaint). The design has been further refined by colleagues since my team's redesign.
