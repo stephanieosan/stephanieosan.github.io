@@ -6,9 +6,10 @@ categories: jekyll update
 permalink: /complaint/
 ---
 
+One of the core services CFPB offers to the public is the ability to submit complaints related to financial products and institutions. We accept complaints across channels online through a web form, over the phone, and via mail. For this project, my team redesigned the landing page for the complaint forms and upgraded the existing form design.
+
 ![Complaint Landing Page Design](/img/complaint/complaint-landing.png)
 
-One of the core services CFPB offers to the public is the ability to submit complaints related to financial products and institutions. We accept complaints across channels online through a web form, over the phone, and via mail. For this project, my team redesigned the landing page for the complaint forms and upgraded the existing form design.
 
 
 ---

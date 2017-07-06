@@ -41,4 +41,6 @@ I also designed an interactive label system for the cases containing mineral spe
 
 ---
 
+### 
+
 These exhibits reside in the Lyda Hill Gems and Minerals Hall at the <a href="http://perotmuseum.org">Perot Museum of Nature and Science</a> in Dallas, TX. <i>Project completed while at <a href="http://pbexhibits.com">PBE</a>.
