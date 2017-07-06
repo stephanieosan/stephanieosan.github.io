@@ -219,8 +219,12 @@ hr {
     margin: 10px;
 }
 
-h3{
+.h3{
     padding-top: 45px;
+}
+
+.h3-landing{
+    padding-top: 0px;
 }
 
 
