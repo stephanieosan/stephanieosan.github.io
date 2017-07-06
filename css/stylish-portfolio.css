@@ -30,7 +30,6 @@ body {
     font-weight: 700;
 }
 
-
 hr {
     margin-bottom: 30px;
 }
@@ -236,6 +235,7 @@ footer {
 
 .resume-section {
     margin-bottom: 45px;
+    padding-top: 30px;
 }
 
 .rule-space {
@@ -250,4 +250,8 @@ footer {
 
 .space-above {
     margin-top: 30px;
+}
+
+.title {
+    text-transform: uppercase; 
 }
