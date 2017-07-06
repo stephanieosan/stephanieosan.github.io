@@ -11,8 +11,6 @@ permalink: /energy-hall/
 
 An intro here.
 
-And maybe an overview photo of this hall here.
-
 
 ### Faraday Dynamo
 
@@ -36,5 +34,7 @@ I designed all of the exhibit signage and wayfinding. This process included pres
 
 [Need a wayfinding signage image.]
 
-This exhibit resides in the Tom Hunt Energy Hall at the <a href="http://perotmuseum.org">Perot Museum of Nature and Science</a> in Dallas, TX. <i>Project completed while at <a href="http://pbexhibits.com">PBE</a>
+---
+
+These exhibits reside in the Tom Hunt Energy Hall at the <a href="http://perotmuseum.org">Perot Museum of Nature and Science</a> in Dallas, TX. <i>Project completed while at <a href="http://pbexhibits.com">PBE</a>.
 
