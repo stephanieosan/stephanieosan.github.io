@@ -6,8 +6,8 @@ categories: jekyll update
 permalink: /complaint/
 ---
 
-Here's a description of the Complaint project! 
-
 ![Complaint Landing Page Design](/img/complaint/complaint-landing.png)
+
+Here's a description of the Complaint project! 
 
 [Link to the Complaint landing page](http://www.consumerfinance.gov/complaint)

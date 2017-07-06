@@ -6,10 +6,12 @@ categories: jekyll update
 permalink: /energy-hall/
 ---
 
-Here's a description of the Energy Hall project! 
 
 ![Energy Hall Rendering](/img/energy-hall/energy-rendering-01.jpg)
+
+Here's a description of the Energy Hall project! 
 
 ![Energy Hall Faraday Dynamo Rendering](/img/energy-hall/energy-rendering-02.jpg)
 
 ![Farady Dynamo exhibit interface](/img/energy-hall/faraday-dynamo.jpg)
+

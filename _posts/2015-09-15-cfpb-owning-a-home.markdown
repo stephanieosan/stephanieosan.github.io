@@ -6,11 +6,9 @@ categories: jekyll update
 permalink: /owning-a-home/
 ---
 
-CFPB Mortgage Educational Tools and Resources
-Here's a description of the AskCFPB project! 
-
-### Owning a Home landing page
 ![Owning a Home Landing Page Design](/img/oah/oah-landing-responsive.jpg)
+
+Here's a description of the Owning a Home project! 
 
 [Link to the OaH landing page](http://www.consumerfinance.gov/owning-a-home)
 

@@ -30,6 +30,11 @@ body {
     font-weight: 700;
 }
 
+
+hr {
+    margin-bottom: 30px;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -225,17 +230,24 @@ footer {
 
 /* Resume */
 
-.all-caps
-    text-transform: uppercase;
-    font-size: 1.25em;
-    color: grey;
+.job {
+    margin-top: 45px;
+}
+
+.resume-section {
+    margin-bottom: 45px;
 }
 
 .rule-space {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
-.section {
-    margin-bottom: 30px;
+.all-caps {
+    text-transform: uppercase;
+    font-size: 1.25em;
+}
+
+.space-above {
+    margin-top: 30px;
 }

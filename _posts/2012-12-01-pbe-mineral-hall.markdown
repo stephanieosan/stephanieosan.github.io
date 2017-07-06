@@ -6,10 +6,10 @@ categories: jekyll update
 permalink: /mineral-hall/
 ---
 
-Here's a description of the Gems and Minerals Hall! 
-
 
 ![Gem Hall Photograph](/img/gem-hall/gem-hall-01.jpg)
+
+Here's a description of the Gems and Minerals Hall! 
 
 ![Mineral Matrix Screen](/img/gem-hall/min-matrix-01.jpg)
 
