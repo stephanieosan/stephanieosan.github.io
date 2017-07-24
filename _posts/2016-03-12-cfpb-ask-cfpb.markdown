@@ -10,9 +10,9 @@ permalink: /ask-cfpb/
 AskCFPB is the CFPB’s largest set of financial education resources. It includes thousands of answers to common questions that cover a broad range of financial products and topics, and it drives the majority of organic traffic to CFPB’s website. 
 
 The problems we were trying to solve with a redesign:
-Being one of our original (and oldest) web products, AskCFPB was not responsive, which was a significant issue, given that ~30% of visitors were mobile users.
-Usability testing uncovered that users had difficulty navigating within the AskCFPB pages.
-Because AskCFPB content is our largest source of organic traffic, our stakeholders wanted to create pathways from AskCFPB into other relevant CFPB financial education content.
+* Being one of our original (and oldest) web products, AskCFPB was not responsive, which was a significant issue, given that ~30% of visitors were mobile users.
+* Usability testing uncovered that users had difficulty navigating within the AskCFPB pages.
+* Because AskCFPB content is our largest source of organic traffic, our stakeholders wanted to create pathways from AskCFPB into other relevant CFPB financial education content.
 
 ![AskCFPB Responsive Design](/img/ask/ask-question-page.jpg)
 
@@ -21,6 +21,7 @@ Because AskCFPB content is our largest source of organic traffic, our stakeholde
 [Before and After image]
 
 [Something about the hero exploration.]
+As a part of this project, we had the opportunity to design an image to represent the tool on its landing page. 
 
 [More hero exploration photos/sketches/etc]
 
