@@ -16,16 +16,21 @@ The problems we were trying to solve with a redesign:
 
 ![AskCFPB Responsive Design](/img/ask/ask-question-page.jpg)
 
-[More stuff about the redesign process.]
+<br>
+### Landing page redesign before and after
+![AskCFPB Responsive Design](/img/ask/ask-ba.jpg)
 
-[Before and After image]
-
+<br>
+### Hero image and photography exploration
 [Something about the hero exploration.]
-As a part of this project, we had the opportunity to design an image to represent the tool on its landing page. 
 As a part of this project, we had the opportunity to design an image to represent the tool on its landing page. 
 
 [More hero exploration photos/sketches/etc]
 
 ![Screenshot of AskCFPB](/img/ask/AskCFPB-screenshot.png)
 
-[Maybe something about the outcomes of the project]
+
+<br><br>
+<hr>
+<br>
+This project was completed in collaboration with other CFPB designers, Jenn Hueting, Lorelei Kelly, and Sonna Kim. 

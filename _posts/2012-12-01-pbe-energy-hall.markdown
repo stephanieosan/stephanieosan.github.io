@@ -34,7 +34,7 @@ I designed all of the exhibit signage and wayfinding. This process included pres
 
 [Need a wayfinding signage image.]
 <br><br>
----
+<hr>
 <br>
 These exhibits reside in the Tom Hunt Energy Hall at the <a href="http://perotmuseum.org">Perot Museum of Nature and Science</a> in Dallas, TX. <i>Project completed while at <a href="http://pbexhibits.com">PBE</a>.
 
