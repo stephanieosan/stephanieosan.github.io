@@ -18,6 +18,12 @@ As a part of this project, I:
 * Collaborated with internal developers and contractors to ensure pages were built according to designs
 * Introduced and designed new pages explaining the complaint process and how the CFPB uses complaint data
 
+<br>
+### Complaint process and data use subpages
+![Complaint Subpages Design](/img/complaint/Complaint-subpages-03.png)
+
+
+
 <br><br>
 <hr>
 <br>
