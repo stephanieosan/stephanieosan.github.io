@@ -16,9 +16,10 @@ As a part of this project, I:
 * Designed multiple distinct directions, presented to stakeholders for feedback on tone
 * Conducted usability testing to gauge performance of the pages and forms, then adapt design based on test results
 * Collaborated with internal developers and contractors to ensure pages were built according to designs
+* Introduced and designed new pages explaining the complaint process and how the CFPB uses complaint data
 
 <br><br>
----
+<hr>
 <br>
 This project was completed in collaboration with other CFPB designers and developers, Stephen Kennedy and Ben Guhin. 
 

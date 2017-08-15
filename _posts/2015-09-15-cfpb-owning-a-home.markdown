@@ -14,6 +14,8 @@ For the majority of the project’s duration, I led the project as scrum master 
 
 [Visit the Owning a Home suite of resources.](http://www.consumerfinance.gov/owning-a-home)
 
+<br><br>
+
 ### Explore interest rates
 ![Owning a Home Explore interest rates tool](/img/oah/oah-explore-rates.png)
 
@@ -21,7 +23,7 @@ Given the size and length of the project, I had the opportunity to work on a wid
 
 The core of the Owning a Home experience is the [Explore Rates tool](http://www.consumerfinance.gov/owning-a-home/explore-rates), which allows consumers to look up benchmarks about what interests rates are available to people like them. This tool was particularly challenging to design—it was important to make the experience feel approachable and easy to digest, encourage users to experiment so they learn how different factors affect interest rate, while making a complex set of variables feel simple. Designing the tool required working side-by-side with our mortgage and data subject matter experts to gain a broad understanding of mortgage options and ensure accuracy of representation of the data.
 
-
+<br><br>
 
 ### Know the Process
 ![Owning a Home Know the Process Design](/img/oah/oah-journey-prepare.png)
@@ -29,7 +31,7 @@ The core of the Owning a Home experience is the [Explore Rates tool](http://www.
 The [Know the Process](http://www.consumerfinance.gov/owning-a-home/process/prepare) guide is a set of pages that provide an overview of the mortgage process, which are designed to allow users to both get a high-level sense of the process and dig deeply into action-oriented steps.
 
 Know the Process was designed to offer a linear way to access the Owning a Home information and resources, as a contrast to the Landing page, which allows users to dip into resources ad hoc, with less context.
-
+<br>
 
 #### Know the process illustrations
 ![Owning a Home Illustrations Set](/img/oah/oah-illustrations.png)
