@@ -18,7 +18,7 @@ The problems we were trying to solve with a redesign:
 
 <br>
 ### Landing page redesign before and after
-![AskCFPB Responsive Design](/img/ask/ask-ba.jpg)
+![AskCFPB Before and After Landing Page](/img/ask/ask-ba.png)
 
 <br>
 ### Hero image and photography exploration
