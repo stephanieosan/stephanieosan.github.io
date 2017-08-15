@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AskCFPB Financial FAQs Redesign"
+title:  "Consumer Experience Information Architecture"
 date:   2016-03-12 17:10:33 -0500
 categories: jekyll update
-permalink: /ask-cfpb/
+permalink: /ceia/
 ---
 
 
