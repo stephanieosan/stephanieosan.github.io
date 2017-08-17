@@ -9,12 +9,18 @@ permalink: /energy-hall/
 
 ![Energy Hall Rendering](/img/energy-hall/energy-rendering-01.jpg)
 
-An intro here.
+I contributed to a team responsible for designing, building, and installing the Tom Hunt Energy Hall at the Perot Museum of Nature and Science. The exhibit explored the science of various forms of energy (from geothermal to coal to wind and solar power). 
+
+
+As the only visual designer on the team, I was responsible for designing all exhibit and donor recognition signage and wayfinding. This process included presenting to and collaborating with multi-million dollar donors to create signage to recognize their contributions to the museum. I worked with subject matter experts to communicate and condense complex geological content into plain language and digestable graphics suitable for all-ages. I oversaw the production of the signage and managed relationships with vendors.
+
+
+I was also responsible for designing a variety of custom touch-screen interactive exhibits, which were built in-house by a developer. The two of us closely collaborated to bring these applications to life. 
 
 
 ### Faraday Dynamo
 
-For this exhibit, two museum visitors compete to generate the most electricity by spinning the Faraday Dynamo wheels fastest. This digital readout accompanies the physical exhibit, measuring and comparing their output to other forms of energy. 
+For this exhibit, two museum visitors compete to generate the most electricity by spinning the Faraday Dynamo wheels fastest. This digital readout accompanies the physical exhibit, measuring and comparing their physical exertion against the perspective of other forms of energy. 
 
 
 ![Energy Hall Faraday Dynamo Rendering](/img/energy-hall/energy-rendering-02.jpg)
@@ -25,14 +31,11 @@ For this exhibit, two museum visitors compete to generate the most electricity b
 ### Energy Questions
 Energy Questions is a touchscreen application that allows museum-goers to debate current energy issues. 
 
-[Need an image here.]
+![Energy Questions exhibit interface](/img/energy-hall/EQ-01_web.jpg)
+
+![Energy Questions exhibit interface](/img/energy-hall/EQ-02_web.jpg)
 
 
-### Exhibit wayfinding and signage
-
-I designed all of the exhibit signage and wayfinding. This process included presenting to and collaborating with multi-million dollar donors to create signage to recognize their contributions to the museum. I also oversaw the production of the signage and managed relationships with vendors.
-
-[Need a wayfinding signage image.]
 <br><br>
 <hr>
 <br>
