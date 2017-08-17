@@ -34,12 +34,15 @@ Goals for the redesign:
 
 As a part of this project, we had the opportunity to design an image to represent the tool on its landing page. Before this point, editorial photography was rarely used as a part of the CFPB's brand. Through this image, we explored the intersection of depicting the CFPB (a neutral financial expert), the product (a vast dataset of action-oriented information), and the consumer (who comes to the site for financial advice) to express and reinforce the value proposition of the Ask CFPB tool.
 
+<br>
 #### Intial concept brainstorming and background research
 ![Hero brainstorming](/img/ask/Ask-hero-inspo.png)
 
+<br>
 #### Rough mockups of concepts
 ![Hero brainstorming](/img/ask/Ask-heroroughs.png)
 
+<br>
 #### Final image
 ![Screenshot of AskCFPB](/img/ask/Ask-finalhero.png)
 
