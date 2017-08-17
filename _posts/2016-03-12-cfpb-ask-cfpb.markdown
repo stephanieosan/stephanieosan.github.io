@@ -7,12 +7,12 @@ permalink: /ask-cfpb/
 ---
 
 
-Ask CFPB is the CFPB’s largest set of financial education resources. It includes thousands of answers to common questions that cover a broad range of financial products and topics, and it drives the majority of organic traffic to CFPB’s website. 
+[Ask CFPB](https://www.consumerfinance.gov/askcfpb) is the CFPB’s largest set of financial education resources. It includes thousands of answers to common questions that cover a broad range of financial products and topics, and it drives the majority of organic traffic to CFPB’s website. 
 
 Goals for the redesign:
 
 1. **Identify the CFPB on each page**
-	* Many users are coming from organic traffic and do not know who the CFPB is. Increase the credibility of the site, 
+	* Increase credibility of the site—many users are coming from organic traffic and do not know who the CFPB is 
 2. **Make it easy for users to find answers** 
 	* Usability testing and analysis of analytics uncovered that users had 
 3. **Create entry points for other cf.gov resources** 
@@ -20,6 +20,7 @@ Goals for the redesign:
 4. **Make the tool mobile-friendly**
 5. **Update the look and feel to match the evolution of the CFPB brand**
 
+[See the tool live](https://www.consumerfinance.gov/askcfpb)
 
 ![AskCFPB Responsive Design](/img/ask/ask-question-page.jpg)
 
