@@ -11,14 +11,14 @@ Ask CFPB is the CFPB’s largest set of financial education resources. It includ
 
 Goals for the redesign:
 
-1) Identify the CFPB on each page
+1. **Identify the CFPB on each page**
 	* Many users are coming from organic traffic and do not know who the CFPB is. Increase the credibility of the site, 
-2) Make it easy for users to find answers 
-	* Usability testing and analysis of analytics uncovered that users had difficulty navigating within the Ask CFPB pages.
-3) Create entry points for other cf.gov resources  
+2. **Make it easy for users to find answers** 
+	* Usability testing and analysis of analytics uncovered that users had 
+3. **Create entry points for other cf.gov resources** 
 	* Because Ask CFPB content is our largest source of organic traffic, our stakeholders wanted to create pathways from AskCFPB into other relevant CFPB financial education content.
-4) Make the tool mobile-friendly
-5) Update the look and feel to match the evolution of the CFPB brand
+4. **Make the tool mobile-friendly**
+5. **Update the look and feel to match the evolution of the CFPB brand**
 
 
 ![AskCFPB Responsive Design](/img/ask/ask-question-page.jpg)
