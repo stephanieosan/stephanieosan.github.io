@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AskCFPB Financial FAQs Redesign"
+title:  "Ask CFPB Financial FAQs Redesign"
 date:   2016-03-12 17:10:33 -0500
 categories: jekyll update
 permalink: /ask-cfpb/
@@ -22,9 +22,6 @@ Goals for the redesign:
 
 
 ![AskCFPB Responsive Design](/img/ask/ask-question-page.jpg)
-We took a mobile-first approach to designing the tool, given that at the time of the redesign, mobile traffic to the site accounted for ~30% of visitors. 
-
-![Ask CFPB mobile first sketch](/img/ask/Ask-mobilefirst.png)
 
 
 <br>
