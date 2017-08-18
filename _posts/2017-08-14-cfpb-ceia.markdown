@@ -16,7 +16,7 @@ During the initial research phase, my team conducted (and I participated in) int
 
 As a part of the research phase, we developed cards that captured consumer mental models, with the goal of keeping our research insights fresh and sharing those insights with other teams who create content and tools for these same audiences. 
 
-![CEIA research summary cards](/img/ceia/CEIA-cards.png)
+![CEIA research summary cards](/img/ceia/CEIA-cards.jpg)
 
 ### Designing the money topic page template
 
@@ -30,7 +30,7 @@ We designed a couple versions of the page and brought them into usability testin
 
 Since we were creating a set of new landing pages, we had the opportunity to develop a series of images to orient users and set the tone on each page. This project addressed a very different audience than much of the existing CFPB web resources—focusing on consumers who were in financial crisis, rather than consumers planning for a major financial goal or purchase. Consequently, we wanted to used photography to create a very different tone than much of the existing CFPB brand imagery and illustration used on the site. 
 
-![CEIA hero images](/img/ceia/CEIA-heros.png)
+![CEIA hero images](/img/ceia/CEIA-heros.jpg)
 
 This photography project was a collaboration between myself, Jenn Hueting, and the CFPB multimedia team. Together, Jenn and I developed the vision and concepts for the photos. Jenn art directed the photoshoot with the CFPB multimedia team and was responsible for final retouching and execution of the images.
 
