@@ -18,6 +18,7 @@ As a part of the research phase, we developed cards that captured consumer menta
 
 ![CEIA research summary cards](/img/ceia/CEIA-cards.jpg)
 
+<br>
 ### Designing the money topic page template
 
 Coming out of the research phase, we identified the need to re-organize our navigation and content to create new "portals" that focus and organize information around a particular financial topic (for example, mortgages or student loans).
@@ -26,6 +27,7 @@ We designed a couple versions of the page and brought them into usability testin
 
 ![CEIA portal page layout](/img/ceia/CEIA-portal.png)
 
+<br>
 ### Designing a set of images for the new pages
 
 Since we were creating a set of new landing pages, we had the opportunity to develop a series of images to orient users and set the tone on each page. This project addressed a very different audience than much of the existing CFPB web resources—focusing on consumers who were in financial crisis, rather than consumers planning for a major financial goal or purchase. Consequently, we wanted to used photography to create a very different tone than much of the existing CFPB brand imagery and illustration used on the site. 
