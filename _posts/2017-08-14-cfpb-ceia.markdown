@@ -7,30 +7,35 @@ permalink: /ceia/
 ---
 
 
-AskCFPB is the CFPB’s largest set of financial education resources. It includes thousands of answers to common questions that cover a broad range of financial products and topics, and it drives the majority of organic traffic to CFPB’s website. 
+The Consumer Experience Information Architecture Project is a long-term endeavor to redesign the organization and information architecture of significant portions of the CFPB website. It included multiple rounds of initial research to understand consumer and intermediary (front line professionals who work with consumers) mental models and needs, migrating thousands of pages to our new content management system, and launching and redesigning dozens of new and existing pages to support the ways our users want to access information on the website.
 
-The problems we were trying to solve with a redesign:
-* Being one of our original (and oldest) web products, AskCFPB was not responsive, which was a significant issue, given that ~30% of visitors were mobile users.
-* Usability testing uncovered that users had difficulty navigating within the AskCFPB pages.
-* Because AskCFPB content is our largest source of organic traffic, our stakeholders wanted to create pathways from AskCFPB into other relevant CFPB financial education content.
+### Research phase
+During the initial research phase, my team conducted (and I participated in) interviews and card sorting, then we put togehter a proposal for an information architecture, then validated the IA with tree testing.
 
-![AskCFPB Responsive Design](/img/ask/ask-question-page.jpg)
+[before and after screenshots of megamenus]
 
-[More stuff about the redesign process.]
+As a part of the research phase, we developed cards that captured consumer mental models, with the goal of keeping our research insights fresh and sharing those insights with other teams who create content and tools for these same audiences. 
 
-[Before and After image]
+[image of cards]
 
-[Something about the hero exploration.]
-As a part of this project, we had the opportunity to design an image to represent the tool on its landing page. 
-As a part of this project, we had the opportunity to design an image to represent the tool on its landing page. 
+### Designing the money topic page template
 
-[More hero exploration photos/sketches/etc]
+Coming out of the research phase, we identified the need to re-organize our navigation and content to create new "portals" that focus and organize information around a particular financial topic (for example, mortgages or student loans).
 
-![Screenshot of AskCFPB](/img/ask/AskCFPB-screenshot.png)
+We designed a couple versions of the page and brought them into usability testing. 
 
-[Maybe something about the outcomes of the project]
+### Designing a set of images for the new pages
+
+Since we were creating a set of new landing pages, we had the opportunity to develop a series of images to orient users and set the tone on each page. This project addressed a very different audience than much of the existing CFPB web resources—focusing on consumers who were in financial crisis, rather than consumers planning for a major financial goal or purchase. Consequently, we wanted to used photography to create a very different tone than much of the existing CFPB brand imagery and illustration used on the site. 
+
+[Maybe images of existing illustration work]
+[images of photos]
+
+This photography project was a collaboration between myself, Jenn Hueting, and the CFPB multimedia team. Together, Jenn and I developed the vision and concepts for the photos. Jenn art directed the photoshoot with the CFPB multimedia team and was responsible for final retouching and execution of the images.
+
+The CEIA project is still in progress. See the [redesigned menus](https://www.consumerfinance.gov/) and some of the photographs on the [auto](https://www.consumerfinance.gov/consumer-tools/auto-loans/), [credit reports](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/), and [debt collection](https://www.consumerfinance.gov/consumer-tools/debt-collection/) pages. 
 
 <br><br>
 <hr>
 <br>
-This project was completed as a part of a team of in-house CFPB designers and developers that I led.
+This project was completed as a part of a team of in-house CFPB designers and developers that I led as scrummaster.
