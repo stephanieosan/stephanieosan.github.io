@@ -12,11 +12,11 @@ The Consumer Experience Information Architecture Project is a long-term endeavor
 ### Research phase
 During the initial research phase, my team conducted (and I participated in) interviews and card sorting, then we put togehter a proposal for an information architecture, then validated the IA with tree testing.
 
-![CEIA portal page layout](/img/ceia/ceia-menu.png)
+![CEIA portal page layout](/img/ceia/CEIA-menu.png)
 
 As a part of the research phase, we developed cards that captured consumer mental models, with the goal of keeping our research insights fresh and sharing those insights with other teams who create content and tools for these same audiences. 
 
-![CEIA research summary cards](/img/ceia/ceia-cards.png)
+![CEIA research summary cards](/img/ceia/CEIA-cards.png)
 
 ### Designing the money topic page template
 
@@ -24,13 +24,13 @@ Coming out of the research phase, we identified the need to re-organize our navi
 
 We designed a couple versions of the page and brought them into usability testing. 
 
-![CEIA portal page layout](/img/ceia/ceia-portal.png)
+![CEIA portal page layout](/img/ceia/CEIA-portal.png)
 
 ### Designing a set of images for the new pages
 
 Since we were creating a set of new landing pages, we had the opportunity to develop a series of images to orient users and set the tone on each page. This project addressed a very different audience than much of the existing CFPB web resources—focusing on consumers who were in financial crisis, rather than consumers planning for a major financial goal or purchase. Consequently, we wanted to used photography to create a very different tone than much of the existing CFPB brand imagery and illustration used on the site. 
 
-![CEIA hero images](/img/ceia/ceia-heros.png)
+![CEIA hero images](/img/ceia/CEIA-heros.png)
 
 This photography project was a collaboration between myself, Jenn Hueting, and the CFPB multimedia team. Together, Jenn and I developed the vision and concepts for the photos. Jenn art directed the photoshoot with the CFPB multimedia team and was responsible for final retouching and execution of the images.
 
